@@ -18,6 +18,9 @@ h2{
     color:gray;
     margin-bottom: 70px;
 }
+h3{
+    font-size:25px;
+}
 .flexible-container{
     display:flex;
 }
@@ -65,4 +68,26 @@ h2{
 }
 p{
     text-align:justify;
+}
+.recipies{
+    width:30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    padding:20px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px gray;
+}
+.recipies img{
+    width:100%; 
+}
+.third-text h2{
+    text-align: center;
+}
+.third-text p{
+    text-align: center;
+    margin-left: 150px;
+    margin-right:150px;
+    padding-right: 150px;
+    padding-left: 150px;
 }
