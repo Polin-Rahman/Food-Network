@@ -10,16 +10,19 @@ h1{
     color:dimgrey;
     
 }
+h2{
+    font-size:40px;
+    color:grey;
+}
 #gray-color{
     color:gray;
     margin-bottom: 70px;
 }
 .flexible-container{
     display:flex;
-    margin-bottom: 100px;
 }
 .half-width{
-    width:100%;
+    width:50%;
     padding:5%;
 }
 .half-width img{
@@ -32,9 +35,34 @@ h1{
 .button{
     text-decoration: none;
     background-color:coral;
-    background-image: linear-gradient(to left, rgb(252, 95, 38),rgb(247, 165, 135));
+    background-image: linear-gradient(to left, rgb(252, 95, 38),rgb(248, 176, 149));
     padding:15px 25px;
     border-radius:25px;
     color:white;
     font-weight:700;
+}
+.second-part{
+    background-image: url(images/second-bg.png);
+    background-repeat: no-repeat;
+}
+.second-half-width{
+    width:50%;
+    padding-left:5%;
+    padding-right:5%;
+}
+.second-half-width img{
+    width:50%;  
+    padding-top:10%;
+    padding-left:35%;
+}
+.second-text{
+    margin-top:80px ;
+    margin-right: 80px;
+}
+.second-text p{
+    margin-bottom: 80px;
+    padding-right: 30%;
+}
+p{
+    text-align:justify;
 }
