@@ -19,7 +19,7 @@ h2{
     margin-bottom: 70px;
 }
 h3{
-    font-size:25px;
+    font-size:30px;
 }
 .flexible-container{
     display:flex;
@@ -74,6 +74,7 @@ p{
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 30px;
+    margin-bottom: 100px;
     padding:20px;
     border-radius: 25px;
     box-shadow: 10px 10px 40px gray;
@@ -90,4 +91,21 @@ p{
     margin-right:150px;
     padding-right: 150px;
     padding-left: 150px;
+}
+h4{
+    font-size:20px;
+    color:lightgray;
+    text-align:center;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+.footer{
+    height: 150px;
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:60px;
+    background-color: black;
 }
