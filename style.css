@@ -109,3 +109,18 @@ footer p{
     padding-bottom:60px;
     background-color: black;
 }
+.social-media{
+    width:85%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    padding:20px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 40px gray;
+}
+.media{
+    margin-left: 200px;
+}
+.media h2{
+    color:black;
+}
